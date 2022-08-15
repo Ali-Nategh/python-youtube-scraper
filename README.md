@@ -13,5 +13,7 @@ Channel link
 
 Ofcourse this is probably not gonna last long, a small change in the youtube results page (the scripts tags and html elements) will break it, but it was a good learning project.
 
+I've also included two sample files created by this script.
+
 Hope by the time youre reading this it still works and you can use it.
 Have a good day!
