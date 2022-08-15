@@ -53,7 +53,6 @@ all_channels = [{
 } for video in range(22)]
 
 video_counter = 0
-YT_API_KEY = "AIzaSyDXtFKrWOC0x-_xYY8LMc0PmicBPZVISlo"
 
 for data in content[:100]:
     for key, value in data.items():
